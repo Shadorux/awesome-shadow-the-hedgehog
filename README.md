@@ -58,6 +58,8 @@ Have a Shadow-focused forum, group, server, webring, or other public community t
 
 Found something missing? **Pull requests and issues are welcome.**
 
+If you own or maintain a Shadow-focused website and want to join the classic webring navigation, use the [Shadow Webring application form](https://shadorux.dev/webring/#join). Approved members receive the small Previous / Random / Next widget for their site.
+
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting an entry. The basic rule is simple: the resource should have a meaningful connection to Shadow the Hedgehog and its description should explain why it is useful or interesting.
 
 We especially want to discover:

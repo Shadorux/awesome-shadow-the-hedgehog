@@ -8,10 +8,11 @@ This directory is intentionally open to more than large, established websites. P
 
 You can:
 
-1. Open a pull request adding or updating an entry.
-2. Open an issue with a URL and a short explanation if you do not want to edit the list yourself.
-3. Report a dead, moved, misleading, or unsafe link.
-4. Submit an archived/discontinued site for the Historical & Archived Sites section.
+1. Use the [Shadow Webring join form](https://shadorux.dev/webring/#join) if you own or maintain a Shadow-focused site and want to join the ring.
+2. Open a pull request adding or updating an entry.
+3. Open an issue with a URL and a short explanation if you do not want to edit the list yourself.
+4. Report a dead, moved, misleading, or unsafe link.
+5. Submit an archived/discontinued site for the Historical & Archived Sites section.
 
 ## Entry format
 

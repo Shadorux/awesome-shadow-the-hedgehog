@@ -1,0 +1,56 @@
+name: Shadow Webring application
+description: Apply to add a Shadow-focused site or project to the Shadorux Shadow Webring.
+title: "[Webring application] "
+labels: []
+body:
+  - type: input
+    id: site-name
+    attributes:
+      label: Site name
+      placeholder: My Shadow Shrine
+    validations:
+      required: true
+  - type: input
+    id: site-url
+    attributes:
+      label: Site URL
+      placeholder: https://example.com/
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Fan site / shrine
+        - Archive / preservation
+        - Fan project / mod
+        - Tool / developer project
+        - Community
+        - Historical / archived site
+        - Other Shadow resource
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Short description
+      description: What is the site, and what would a Shadow fan find there?
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact
+      description: Optional email, Bluesky, Discord, or other way to contact the site owner.
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: This site has a meaningful Shadow the Hedgehog focus.
+          required: true
+        - label: This site is safe for the public directory.
+          required: true
+        - label: I understand approved sites may be asked to add the Shadow Webring navigation widget.
+          required: true
